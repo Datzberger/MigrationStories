@@ -43,9 +43,12 @@ My grandfather's decision to migrate to the United States with his brothers foll
 
 By the early 1900s, the funds sent home by Chinese emigrants in turn inspired more outmigration. These remittances also created greater pressures for younger men to migrate to earn wages in order to keep up with the increased cost of land and goods. Geopolitical developments by the 1920s also contributed to a desire to migrate. Japan had undergone concerted modernization modeled on Western imperialism, and sought to expand its influence across Asia, including the colonization of Korea in 1911.
 
-## Subheader 2: Personal context (4-8 words)
+## Subheader 2: Family Matters (4-8 words)
 
-My grandfather's departure for the United States resulted in a separation from his wife, See Chew, for 5 years. This was not uncommon for Chinese migrants.
+My grandfather's departure for the United States resulted in a separation from his wife, See Chew, for 5 years. This was not uncommon for Chinese migrants. The two were married before he migrated with his borthers.  All of the brothers apparently left their wives behind. As historian Judy Yung (Yung 1995) has noted, wives often were left behind as "grass widows" to care for their in-laws.  But my grandfather, unlike the earlier single male migrants, did not intend to return to the China. He and his wife had agreed that once he was settled  in the United States, he would send for her. As with Maxine Hong Kingston's protagonists in China Men, my grandfather took his time to arrange for my grandmother to join him in the United States.(On the other hand, my grandfather did help his cousin Louie to migrate from the village to the United States.)  See Chew eventually figured out how to migrate to the United States on her own. This was no easy task. 
+
+Because of the restrictions on Chinese entering the United States as a result of the Chinese Exclusion Laws and the particular scrutiny of Chinese immigrant women because of the Page Law, Chinese women needed to be prepared for their entry interviews with U.S. immigration officials. My grandfather had immigrated to the United States using an assumed, "paper" identity-- using someone else's papers and someone else's name. Thus my grandmother could not migrate as my grandfather's legal wife. According to my brother's research, she obtained her own "paper" papers and migrated via Canada to the United States. 
+
 
 Paragraph 3 (150-200 words). Draw from your oral history to explain the personal reasons for your family's movement. What were the personal push factors (motivations to leave)? Were there any personal pull factors (motivations to move to a particular destination)? Was there any evidence of chain migration (family/community connections that provided support, jobs, familiar culture)?
 
@@ -56,13 +59,13 @@ Paragraph 3 (150-200 words). Draw from your oral history to explain the personal
 
 Use a sentence or two here to introduce the clip and say why you chose it.
 
-## Subheader 3: Describing the oral history as a whole
+## Subheader 3: Object 
 
-Paragraph 4 (300-350 words). Describe the journey as a whole: the family, one important object, and questions of identity and place. Where did your family end up, and how did they make it home? Which object carries the story, and what does it mean to them? Draw on your oral history and cite it.
+Paragraph 4 (300-350 words). What object is significant to your family migration story and why? What does this tell us about what the family values about its migration story?  
 
-## Subheader 4: Connections to other migration stories
+## Subheader 4: Identity and Place in U.S. Soceity
 
-Paragraph 5 (125-175 words). How does your family's story compare with the migration stories we studied in class? Name specific similarities and differences, and cite the class materials you are drawing on.
+Paragraph 5 (125-175 words). How does your family's experiences of belonging and/or identification compare with the migration stories we studied in class? Name specific similarities and differences, and cite the class materials you are drawing on.
 
 ## Concluding subheader of your choice
 
