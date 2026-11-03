@@ -19,7 +19,7 @@ kicker: "Place to Place"
 # One sentence that appears on the home page card and under the title
 summary: "One sentence that tells readers what your family's migration story is about."
 
-# Main image: a photograph or object that introduces your family.
+# Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
 lead-image: images/placeholder.svg
 lead-image-alt: "Short description of the image for screen readers"
@@ -46,6 +46,8 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
 {% endcomment %}
 
 Introduction (100-120 words). Introduce your family to the reader. Who are they, where did they come from, and where did they go? Name the people, the places, and the years. Use clear, welcoming language that a high school student could follow.
+
+
 
 ## Subheader 1: Historical context and impacts (4-8 words)
 
