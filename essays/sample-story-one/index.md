@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: "Sample Essay: Leaving Home for Work"
+title: "Sample Essay: Final Project Template"
 student: "Student Name"
 course: "US Immigration History, Fall 2026"
 kicker: "Sample Essay"
