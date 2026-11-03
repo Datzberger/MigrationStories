@@ -53,6 +53,7 @@ Introduction (100-120 words). Introduce your family to the reader. Who are they,
 
 Paragraph 2 (150-250 words). Explain how your family's story connects to the larger history of migration. Draw on secondary sources from class, such as books and articles. What economic, political, or social forces pushed your family to leave and pulled them toward their destination? Cite your sources in Chicago style.
 
+
 ## Subheader 2: Personal context (4-8 words)
 
 {% comment %}
@@ -76,15 +77,26 @@ Use a sentence or two here to introduce the clip and say why you chose it.
 
 Paragraph 3 (300-350 words). Describe the journey as a whole: the family, one important object, and questions of identity and place. Where did your family end up, and how did they make it home? Which object carries the story, and what does it mean to them? Draw on your oral history and cite it.
 
+
 {% include essay/figure.html
   image="images/placeholder.svg"
   alt="Short description of the image for screen readers"
   caption="20-30 words: what the image shows, why it matters to the story, and its source."
 %}
 
+## 4-8 words Meaningful Object
+
+{% include essay/figure.html
+  image="images/placeholder.svg"
+  alt="Short description of the image for screen readers"
+  caption="20-30 words: what the image shows, why it matters to the story, and its source."
+%}
+
+Paragraph 4 (150-200 words) What object is significant to your family migration story and why? What does this tell us about what the family values about its migration story?
+
 ## Subheader 4: Connections to other migration stories
 
-Paragraph 4 (125-175 words). How does your family's story compare with the migration stories we studied in class? Name specific similarities and differences, and cite the class materials you are drawing on.
+Paragraph 5 (125-175 words). How does your family's story compare with the migration stories we studied in class? Name specific similarities and differences, and cite the class materials you are drawing on.
 
 {% include essay/figure.html
   image="images/placeholder.svg"
