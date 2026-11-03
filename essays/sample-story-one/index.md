@@ -8,18 +8,18 @@ summary: "A placeholder essay showing how a family story about migrating for eco
 thumbnail: /assets/images/immigration_collage.jpg
 thumbnail-position: 53% center
 lead-image: /essays/template/images/placeholder.svg
-lead-image-alt: "Placeholder for a photograph or object that introduces the family"
+lead-image-alt: "Placeholder for a photograph or object that introduces the family migratoin story"
 lead-image-caption: "Sample placeholder. Describe the photograph or object and cite its source, for example: Courtesy of the family, 1985."
 position: 1
 ---
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to the family: who they are, where they came from, where they settled, and when they moved. It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. This sample imagines a family that left a rural community in search of steadier work, joined relatives who had already moved, and slowly built a new life in a city far from home.
+This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. This sample imagines a family that left a rural community in search of steadier work, joined relatives who had already moved, and slowly built a new life in a city far from home.100-120 words.  
 
-## Why families left for work
+## The journey: Historical context and impacts 
 
-This sample paragraph shows how an essay connects one family's story to the wider history of migration. Economic crisis, falling crop prices, and a lack of jobs at home often pushed families to leave. At the same time, growing industries elsewhere created demand for workers and drew newcomers toward cities. Laws and policies shaped who could move, how they traveled, and what kind of work they could find. Historians describe these forces as push and pull factors, and many families relied on relatives and neighbors who had already made the trip. A real essay would draw on class readings and other secondary sources here and cite them in Chicago style.
+This section draws upon secondary sources and class materials to explain how the fmaily migration journey relates to the wider history of migration. What broader economic, political, or social developments globally and locally motivated the decision to migrate?  What specific economic, political, and/or social factors encouraged your family to choose a particular destination? Be sure to draw on class readings and other secondary sources here and cite them in Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
-## In their own words
+## Personal context and impact on family 
 
 {% include essay/audio.html
   file="/essays/template/audio/sample-clip.wav"
@@ -28,19 +28,20 @@ This sample paragraph shows how an essay connects one family's story to the wide
 
 Use a sentence or two to introduce the clip and explain why you chose it.
 
-## The journey, an object, and a sense of home
+This sample paragraph describes the journey as a whole. Draw upon your oral history to discuss the personal goals for the family members moving to a different geographic area. Were there personal push (motivations to leave), pull (motivations to move to the destination), or chain migration (family/community connections) factors for migration? What specific opportunities, challenges, disruptions, changes resulted for specific famliy members? How did it meet expectations or require adjustments? Be as specific as you can.  Cite relevant class sources explains how this relates to broader patterns of migration history using  Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
-This sample paragraph describes the journey as a whole. It would explain how the family traveled, who went first, and who followed. It would introduce one important object that the family carried or kept, and explain what it means to them. It would also reflect on identity and place: what it took to make a new place feel like home, which traditions continued, and which changed. Students draw directly on the oral history here and cite it. This section is the heart of the essay and runs about 300 to 350 words.
 
-{% include essay/figure.html
+## Meaningful object, song, food 
+
+ {% include essay/figure.html
   image="/essays/template/images/placeholder.svg"
   alt="Placeholder for a photograph of an important object or place"
   caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
 %}
 
-## Other stories of work and movement
-
-This sample paragraph connects the family's story to other migration stories studied in class. It points out similarities, such as the role of family networks and the search for work, and differences, such as the time period, the route, or the laws in place. Students name specific readings or examples and cite them. This section runs about 125 to 175 words.
+ This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+ 
+## Identity and place in US society 
 
 {% include essay/figure.html
   image="/essays/template/images/placeholder.svg"
@@ -48,9 +49,11 @@ This sample paragraph connects the family's story to other migration stories stu
   caption="Sample placeholder. Describe the archival image, how it relates to other migration stories, and cite its source."
 %}
 
+This section explores how your family member identifies, their community, and their sense of belonging. Describe the ways they identify-- as American, as multicultural, as multihyphenate, as an immigrant, etc.  Where do they describe as home, community? What meaning do they apply to where they currently live? Discuss how these ways of identifying and belonging relate to their personal experiences and other migraiton stories we have discussed in class.  Be sure to cite the references to the other stories in this section using Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+
 ## What this project taught me
 
-This sample conclusion reflects on what the student learned about their family, about migration, and about history. It might note how ordinary objects and memories hold stories that documents leave out. A student would write about 70 to 85 words here.
+This concluding section addresses your experience of doing this project. What did you learn as a result of interviewing a family member? How does this affect your thoughts about your family, migration, and US history and society? A student would write about 70 to 85 words here.
 
 ## References
 
