@@ -7,6 +7,8 @@ header-title: Instructions for Students
 header-position: 35% center
 ---
 
+{% include nav/instructions-tabs.html active="publish" %}
+
 # How to publish your migration story
 
 You do not need to know how to code. You will copy a template, type your own words, and upload your pictures and audio. Your essay then appears on the home page automatically.
