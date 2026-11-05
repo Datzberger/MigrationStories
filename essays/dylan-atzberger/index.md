@@ -10,7 +10,7 @@ layout: essay
 title: "Paul Atzberger's Migration Story"
 
 # Your name and course (shown under the title)
-student: "Dylan Atzberger "
+student: "Dylan Atzberger"
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
