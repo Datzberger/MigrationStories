@@ -45,9 +45,9 @@ By the early 1900s, the funds sent home by Chinese emigrants in turn inspired mo
 
 ## Subheader 2: Family Matters (4-8 words)
 
-My grandfather's departure for the United States resulted in a separation from his wife, See Chew, for 5 years. This was not uncommon for Chinese migrants. The two were married before he migrated with his borthers.  All of the brothers apparently left their wives behind. As historian Judy Yung (Yung 1995) has noted, wives often were left behind as "grass widows" to care for their in-laws.  But my grandfather, unlike the earlier single male migrants, did not intend to return to the China. He and his wife had agreed that once he was settled  in the United States, he would send for her. As with Maxine Hong Kingston's protagonists in China Men, my grandfather took his time to arrange for my grandmother to join him in the United States.(On the other hand, my grandfather did help his cousin Louie to migrate from the village to the United States.)  See Chew eventually figured out how to migrate to the United States on her own. This was no easy task. 
+My grandfather's departure for the United States resulted in a separation from his wife, See Chew, for 5 years. This was not uncommon for Chinese migrants. The two were married before he migrated with his borthers.  All of the brothers apparently left their wives behind. As historian Judy Yung (Yung 1995) has noted, wives often were left behind as "grass widows" to care for their in-laws.  But my grandfather, unlike the earlier single male migrants, did not intend to return to the China. He and his wife had agreed that once he was settled  in the United States, he would send for her. As with Maxine Hong Kingston's protagonists in *China Men* (1980), my grandfather took his time to arrange for my grandmother to join him in the United States (on the other hand, my grandfather did help his cousin Louie to migrate from the village to the United States). See Chew eventually figured out how to migrate to the United States on her own. This was no easy task. 
 
-Because of the restrictions on Chinese entering the United States as a result of the Chinese Exclusion Laws and the particular scrutiny of Chinese immigrant women because of the Page Law, Chinese women needed to be prepared for their entry interviews with U.S. immigration officials. My grandfather had immigrated to the United States using an assumed, "paper" identity-- using someone else's papers and someone else's name. Thus my grandmother could not migrate as my grandfather's legal wife. According to my brother's research, she obtained her own "paper" papers and migrated via Canada to the United States. 
+Because of the restrictions on Chinese entering the United States as a result of the Chinese Exclusion Laws and the particular scrutiny of Chinese immigrant women because of the Page Law, Chinese women needed to be prepared for their entry interviews with U.S. immigration officials. My grandfather had immigrated to the United States using an assumed, "paper" identity-- using someone else's papers and someone else's name. Thus my grandmother could not migrate as my grandfather's legal wife. According to my brother's research, she obtained her own "paper" papers and migrated via Canada to the United States. She lived in Colorado until my grandfather saved up enough money for her to travel and join him in Chicago, Illinois.  There she would raise eight surviving children. Because Chinese laundries were never located in Chinatown but near their clientele, she rarely interacted with other Chinese Americans.  
 
 
 Paragraph 3 (150-200 words). Draw from your oral history to explain the personal reasons for your family's movement. What were the personal push factors (motivations to leave)? Were there any personal pull factors (motivations to move to a particular destination)? Was there any evidence of chain migration (family/community connections that provided support, jobs, familiar culture)?
@@ -59,11 +59,15 @@ Paragraph 3 (150-200 words). Draw from your oral history to explain the personal
 
 Use a sentence or two here to introduce the clip and say why you chose it.
 
-## Subheader 3: Object 
+## Subheader 3: Object of importance 
 
-Paragraph 4 (300-350 words). What object is significant to your family migration story and why? What does this tell us about what the family values about its migration story?  
+
+Paragraph 4 (125-175) What object is significant to your family migration story and why? What does this tell us about what the family values about its migration story? 
+ 
 
 ## Subheader 4: Identity and Place in U.S. Soceity
+
+My siblings and cousins and I knew our grandfather as Gon Gon -- the name of our mothers' father. My mother and her siblings called him Pa. We still are not certain about what name my grandfather was given at birth. His entry card and naturalization papers read Wing Ak Fong. We believe he purchased that identity and the papers in order to enter the United States. He also went by Henry Fong, the name already on the window of the first laundry he rented.  Many of his neighbors and employers knew him as Henry; this was the name he was known as when he became a waiter at a restaurant after losing his laundry to the city by eminent domian.  When he signed his name in roman letters, he would sign Q.Z. Fong, for Quong Zong Fong. That is what my aunts placed on his gravestone. 
 
 Paragraph 5 (125-175 words). How does your family's experiences of belonging and/or identification compare with the migration stories we studied in class? Name specific similarities and differences, and cite the class materials you are drawing on.
 
@@ -79,4 +83,8 @@ Last name, First name. Oral history interview. Interviewed by Your Name. City, M
 
 ### Secondary sources
 
-Gjerde, Jon. Major Problems in American Immigration and Ethnic History: Documents and Essays. Houghton Mifflin, 1998.
+Gjerde, Jon. *Major Problems in American Immigration and Ethnic History: Documents and Essays.* Houghton Mifflin, 1998.
+
+Hong Kingston, Maxine. *China Men.* Alfred A. Knopf, 1980.
+
+Yung, Judy. *Unbound Feet: A Social History of Chinese Women in San Francisco.* University of California Press, 1995. 

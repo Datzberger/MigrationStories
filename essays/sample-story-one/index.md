@@ -17,7 +17,7 @@ This is a sample introduction. In a finished essay, this paragraph introduces re
 
 ## The journey: Historical context and impacts 
 
-This section draws upon secondary sources and class materials to explain how the fmaily migration journey relates to the wider history of migration. What broader economic, political, or social developments globally and locally motivated the decision to migrate?  What specific economic, political, and/or social factors encouraged your family to choose a particular destination? Be sure to draw on class readings and other secondary sources here and cite them in Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+This section draws upon secondary sources and class materials to explain how the fmaily migration journey relates to the wider history of migration. What broader economic, political, or social developments globally and locally motivated the decision to migrate?  What specific economic, political, and/or social factors encouraged your family to choose a particular destination? Be sure to draw on class readings and other secondary sources here and cite them in Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 150-225 words.
 
 ## Personal context and impact on family 
 
@@ -28,7 +28,7 @@ This section draws upon secondary sources and class materials to explain how the
 
 Use a sentence or two to introduce the clip and explain why you chose it.
 
-This sample paragraph describes the journey as a whole. Draw upon your oral history to discuss the personal goals for the family members moving to a different geographic area. Were there personal push (motivations to leave), pull (motivations to move to the destination), or chain migration (family/community connections) factors for migration? What specific opportunities, challenges, disruptions, changes resulted for specific famliy members? How did it meet expectations or require adjustments? Be as specific as you can.  Cite relevant class sources explains how this relates to broader patterns of migration history using  Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+This sample paragraph describes the journey as a whole. Draw upon your oral history to discuss the personal goals for the family members moving to a different geographic area. Were there personal push (motivations to leave), pull (motivations to move to the destination), or chain migration (family/community connections) factors for migration? What specific opportunities, challenges, disruptions, changes resulted for specific famliy members? How did it meet expectations or require adjustments? Be as specific as you can.  Cite relevant class sources explains how this relates to broader patterns of migration history using  Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 150-225 words.
 
 
 ## Meaningful object, song, food 
@@ -39,7 +39,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
   caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
 %}
 
- This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+ This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 150-227 words. 
  
 ## Identity and place in US society 
 
@@ -49,7 +49,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
   caption="Sample placeholder. Describe the archival image, how it relates to other migration stories, and cite its source."
 %}
 
-This section explores how your family member identifies, their community, and their sense of belonging. Describe the ways they identify-- as American, as multicultural, as multihyphenate, as an immigrant, etc.  Where do they describe as home, community? What meaning do they apply to where they currently live? Discuss how these ways of identifying and belonging relate to their personal experiences and other migraiton stories we have discussed in class.  Be sure to cite the references to the other stories in this section using Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+This section explores how your family member identifies, their community, and their sense of belonging. Describe the ways they identify-- as American, as multicultural, as multihyphenate, as an immigrant, etc.  Where do they describe as home, community? What meaning do they apply to where they currently live? Discuss how these ways of identifying and belonging relate to their personal experiences and other migraiton stories we have discussed in class.  Be sure to cite the references to the other stories in this section using Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 150-225 words. 
 
 ## What this project taught me
 
