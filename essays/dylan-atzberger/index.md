@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: Paul Atzberger's Migration Story
+title: "Paul Atzberger's Migration Story"
 
 # Your name and course (shown under the title)
 student: "Dylan Atzberger "
