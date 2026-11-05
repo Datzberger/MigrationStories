@@ -45,16 +45,14 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-Introduction (100-120 words). Introduce your family to the reader. Who are they, where did they come from, and where did they go? Name the people, the places, and the years. Use clear, welcoming language that a high school student could follow.
+This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+
+## Subheader 1: The Journey Historical context and impacts (4-8 words)
+
+This section draws upon secondary sources and class materials to explain how the fmaily migration journey relates to the wider history of migration. What broader economic, political, or social developments globally and locally motivated the decision to migrate?  What specific economic, political, and/or social factors encouraged your family to choose a particular destination? Be sure to draw on class readings and other secondary sources here and cite them in Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
 
-
-## Subheader 1: Historical context and impacts (4-8 words)
-
-Paragraph 2 (150-250 words). Explain how your family's story connects to the larger history of migration. Draw on secondary sources from class, such as books and articles. What economic, political, or social forces pushed your family to leave and pulled them toward their destination? Cite your sources in Chicago style.
-
-
-## Subheader 2: Personal context (4-8 words)
+## Subheader 2: Personal context and impact on family (4-8 words)
 
 {% comment %}
   AUDIO: replace the file name below with your MP3, uploaded to the "audio" folder.
@@ -71,42 +69,35 @@ Paragraph 2 (150-250 words). Explain how your family's story connects to the lar
   caption="10-25 words: who is speaking, what they describe, and a citation. Interview by Your Name, City, Month Day, Year."
 %}
 
-Use a sentence or two here to introduce the clip and say why you chose it.
+Use a sentence or two to introduce the clip and explain why you chose it.
 
-## Subheader 3: Describing the oral history as a whole
-
-Paragraph 3 (300-350 words). Describe the journey as a whole: the family, one important object, and questions of identity and place. Where did your family end up, and how did they make it home? Which object carries the story, and what does it mean to them? Draw on your oral history and cite it.
+This sample paragraph describes the journey as a whole. Draw upon your oral history to discuss the personal goals for the family members moving to a different geographic area. Were there personal push (motivations to leave), pull (motivations to move to the destination), or chain migration (family/community connections) factors for migration? What specific opportunities, challenges, disruptions, changes resulted for specific famliy members? How did it meet expectations or require adjustments? Be as specific as you can.  Cite relevant class sources explains how this relates to broader patterns of migration history using  Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
 
-{% include essay/figure.html
-  image="images/placeholder.svg"
-  alt="Short description of the image for screen readers"
-  caption="20-30 words: what the image shows, why it matters to the story, and its source."
+## Subheader 3:  Meaningful object, song, food 
+
+ {% include essay/figure.html
+  image="/essays/template/images/placeholder.svg"
+  alt="Placeholder for a photograph of an important object or place"
+  caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
 %}
 
-## 4-8 words Meaningful Object
+ This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
+
+## Subheader 4: 4-8 words Identity and Place in Society
 
 {% include essay/figure.html
-  image="images/placeholder.svg"
-  alt="Short description of the image for screen readers"
-  caption="20-30 words: what the image shows, why it matters to the story, and its source."
+  image="/essays/template/images/placeholder.svg"
+  alt="Placeholder for an archival photograph"
+  caption="Sample placeholder. Describe the archival image, how it relates to other migration stories, and cite its source."
 %}
 
-Paragraph 4 (150-200 words) What object is significant to your family migration story and why? What does this tell us about what the family values about its migration story?
+This section explores how your family member identifies, their community, and their sense of belonging. Describe the ways they identify-- as American, as multicultural, as multihyphenate, as an immigrant, etc.  Where do they describe as home, community? What meaning do they apply to where they currently live? Discuss how these ways of identifying and belonging relate to their personal experiences and other migraiton stories we have discussed in class.  Be sure to cite the references to the other stories in this section using Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
-## Subheader 4: Connections to other migration stories
 
-Paragraph 5 (125-175 words). How does your family's story compare with the migration stories we studied in class? Name specific similarities and differences, and cite the class materials you are drawing on.
+## Subheader 5: What this project taught me 
 
-{% include essay/figure.html
-  image="images/placeholder.svg"
-  alt="Short description of the image for screen readers"
-  caption="20-30 words: what the image shows, why it matters to the story, and its source."
-%}
-
-## Concluding subheader of your choice
-
-Final paragraph (70-85 words). Reflect on what you learned about your family, about migration, and about U.S. history by doing this project.
+This concluding section addresses your experience of doing this project. What did you learn as a result of interviewing a family member? How does this affect your thoughts about your family, migration, and US history and society? A student would write about 70 to 85 words here.
 
 {% comment %}
   OPTIONAL highlighted quotation from the oral history. Paste this where you want it:
